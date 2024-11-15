@@ -1,5 +1,3 @@
-# Juan's GitHub Portfolio
-
 ## 👨‍💻 About Me
 Estudiante de Ingeniería de Software | Machine Learning.
 ## 📫 Contact
