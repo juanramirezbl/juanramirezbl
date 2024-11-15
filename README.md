@@ -16,6 +16,7 @@ I'm a Software Engineering student with a focus on Machine Learning, eager to co
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
 
+
 ## 📫 Contact
 - LinkedIn: [(https://www.linkedin.com/in/tuperfil)](https://www.linkedin.com/in/juan-ramírez-blanco-1440a723a/)
 - Email: juanramirezblanco@icloud.com
