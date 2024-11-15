@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Estudiante de Ingeniería de Software | Machine Learning.
+I'm a Software Engineering student with a focus on Machine Learning, eager to continue learning and growing in the field.
 
 ## Tech Stack
 
