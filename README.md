@@ -15,6 +15,6 @@ Estudiante de Ingeniería de Software interesado en el Machine Learning.
 ---
 
 ## 📫 Contact
-- LinkedIn: [Tu enlace de LinkedIn](https://www.linkedin.com/in/tuperfil)
-- Email: tuemail@example.com
+- LinkedIn: [[Tu enlace de LinkedIn](https://www.linkedin.com/in/tuperfil)](https://www.linkedin.com/in/juan-ramírez-blanco-1440a723a/)
+- Email: juanramirezblanco@icloud.com
 
