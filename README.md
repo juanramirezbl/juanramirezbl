@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan.</h1>
-<h3 align="center">I'm a Software Engineering student with a focus on Machine Learning, eager to continue learning and growing in the field.</h3>
+
+
 
 - 📫 How to reach me **juanramirezblanco@icloud.com**
 
